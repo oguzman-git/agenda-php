@@ -8,12 +8,12 @@ un buscador de contacto que funciona sin necesidad de recargar la página.
 
 ![screencapture-localhost-agenda-php-agendaphp-1589837980572 (1)](https://user-images.githubusercontent.com/65259231/82262377-6cb79900-9926-11ea-8a73-a237454e89ef.png)
 
-### Añadir contactos 
+### Lista de contactos
 
-![screencapture-localhost-agenda-php-agendaphp-1589837980572 (1)](https://user-images.githubusercontent.com/65259231/82262377-6cb79900-9926-11ea-8a73-a237454e89ef.png)
+![screencapture-localhost-agenda-php-agendaphp-index-php-1589843764442](https://user-images.githubusercontent.com/65259231/82268054-aa6eee80-9933-11ea-8150-ca6e0e676129.png)
 
 
-### Editar 
+### Editar/Añadir contacto
 
 ![screencapture-localhost-agenda-php-agendaphp-editar-php-1589843493342](https://user-images.githubusercontent.com/65259231/82267811-06854300-9933-11ea-8418-637817e044d6.png)
 
