@@ -3,6 +3,8 @@ Agenda telefónica que usa AJAX y PHP para cargar los contactos añadidos al fro
 información en la base de datos. 
 
 
-## Imágenes 
+## Screenshots
 
-![screencapture-127-0-0-1-5500-Archivos-Cafe-blogcafe-cursos-html-1589837006627](https://user-images.githubusercontent.com/65259231/82261035-edc16100-9923-11ea-9039-370ad48e11e3.png)
+![screencapture-localhost-agenda-php-agendaphp-1589837980572 (1)](https://user-images.githubusercontent.com/65259231/82262377-6cb79900-9926-11ea-8a73-a237454e89ef.png)
+
+
