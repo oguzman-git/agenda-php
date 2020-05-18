@@ -1,4 +1,4 @@
-# agenda-php
+# Agenda-php
 Agenda telefónica que usa AJAX y PHP para cargar los contactos añadidos al front-end de manera asíncrona al mismo tiempo que actualiza la
 información en la base de datos. 
 
